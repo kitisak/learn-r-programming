@@ -45,6 +45,58 @@ sqrt
 ### Load/import R file
 source("workshop_plot.R")
 
+### Install package
+install.packages("dplyr")
+
+dplyr = A Grammar of Data Manipulation
+
+
+### Data structure
+Create vector
+vector1 = c(1:10)
+vector1 = c(1:10)
+vector2 = seq(from=0, to=10, by=1)
+seq(from=0, to=1, length.out = 11)
+seq(from=0, to=1, by = 0.2)
+
+help(seq)
+
+## Alway show data
+(vector1 = c(1:10))
+
+
+Index of vector start from 0
+
+Operation with vector
+vector1 + vector2
+vector1 - vector2
+vector1 * vector2
+vector1 / vector2
+vector1^vector2
+
+
+Matrix , Data frame, List
+
+
+
+Graphics
++plot
++hist
++line
+
+Control flow
+
+Function
+
+Package
++dplyr
++ggplot2
++forecast
+
+
+
+
+
 
 
 
