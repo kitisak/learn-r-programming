@@ -33,7 +33,14 @@ matrix
 >help(matrix)
 >help(mean)
 
-
+### Functions
+mean
+min
+max
+sum
+exp
+log
+sqrt
 
 
 
