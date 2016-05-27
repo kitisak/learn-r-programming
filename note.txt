@@ -24,6 +24,14 @@ Windows => control + enter
 
 #Lets coding
 
+# Data type
+scala
+vector
+matrix
+
+>help(c)
+>help(matrix)
+>help(mean)
 
 
 
