@@ -1,0 +1,31 @@
+# Set working directory
+
+>setwd("~/data/research/r-programming/basic")
+>getwd()
+
+or
+
+Go to session -> Set working directory
+
+or
+
+In file section => choose your directory and more and set as working directory
+
+
+# Start with  demo
+>demo()
+>demo(package = .packages(all.available = TRUE))
+
+>demo(graphics)
+
+#Key to run code
+Mac => command + enter
+Windows => control + enter
+
+#Lets coding
+
+
+
+
+
+
