@@ -42,5 +42,9 @@ exp
 log
 sqrt
 
+### Load/import R file
+source("workshop_plot.R")
+
+
 
 
